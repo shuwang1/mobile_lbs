@@ -1,6 +1,4 @@
-# mobile_lbs
-Location Based Services for Mobiles: Technologies and Standards
-
+# Location Based Services for Mobiles: Technologies and Standards
 
 Location based services (LBS) for mobile are the services supported by cellular networks providing mobile users with various location sensitive applications such as E911, Friendfinder, personalized advertisement, etc. LBS accelerate the convergence of 3C (computer, communication and consumer electronics). One key aspect of LBS market is the rapid growth of GPS (Global Positioning System) market, which is predicted to reach $28.9 billion by 2010 by GPS World. The driving force behind of the growth of LBS market includes regulator’s mandates, the development of more efficient location technologies and the expanding of LBS from network operator to third service provider. The rapid development and widely adoption of assisted GPS (AGPS) is also believed to the key to the success of LBS market, which are bringing huge revenue opportunities for wireless network operators and service providers.
 
