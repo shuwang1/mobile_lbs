@@ -9,22 +9,41 @@ In summary, the slides are intended to provide a comprehensive overview of mobil
 
 
 IV.	Preliminary Content Index 
+
 I.	Introduction to Location Based Services
-o	The LBS definition and a historical review
-o	An overview of LBS market and its development
-o	LBS Examples: E911, E211 and Telematics
-o	LBS in mobile standards
+
+  o	The LBS definition and a historical review
+
+  o	An overview of LBS market and its development
+
+  o	LBS Examples: E911, E211 and Telematics
+
+  o	LBS in mobile standards
+
 II.	Wireless Positioning Technologies and AGPS
-o	Overview of  Wireless Positioning Techniques
-o	GPS Architecture and Positioning
-o	GPS Error Sources and Budget 
-o	GPS and Galileo
-o	Assisted GPS
+
+  o	Overview of  Wireless Positioning Techniques
+
+  o	GPS Architecture and Positioning
+
+  o	GPS Error Sources and Budget 
+
+  o	GPS and Galileo
+
+  o	Assisted GPS
+
 III.	Mobile Network Assisted GPS and LCS
-o	LCS requirements
-o	LCS standards in mobile networks
-o	Mobile Network Assisted GPS
+
+  o	LCS requirements
+
+  o	LCS standards in mobile networks
+
+  o	Mobile Network Assisted GPS
+
 IV.	Challenges for AGPS and Mobile Location Services
-o	Regulations
-o	Standardization
-o	Market and Implementation
+
+  o	Regulations
+
+  o	Standardization
+
+  o	Market and Implementation
