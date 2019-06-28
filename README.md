@@ -6,9 +6,9 @@ In this set of slides, the state of art of mobile network assisted GPS and locat
 In summary, the slides are intended to provide a comprehensive overview of mobile LBS for a wide array of audiences, including LBS services providers, application developers, marketing managers and system researchers, etc. It includes not only the background information and standards activities but also some hand-on development examples.
 
 
-IV.	Preliminary Content Index 
+##	Tentative Content Outline 
 
-I.	Introduction to Location Based Services
+### I.	Introduction to Location Based Services
 
   o	The LBS definition and a historical review
 
@@ -18,7 +18,7 @@ I.	Introduction to Location Based Services
 
   o	LBS in mobile standards
 
-II.	Wireless Positioning Technologies and AGPS
+### II.	Wireless Positioning Technologies and AGPS
 
   o	Overview of  Wireless Positioning Techniques
 
@@ -30,7 +30,7 @@ II.	Wireless Positioning Technologies and AGPS
 
   o	Assisted GPS
 
-III.	Mobile Network Assisted GPS and LCS
+### III.	Mobile Network Assisted GPS and LCS
 
   o	LCS requirements
 
@@ -38,7 +38,7 @@ III.	Mobile Network Assisted GPS and LCS
 
   o	Mobile Network Assisted GPS
 
-IV.	Challenges for AGPS and Mobile Location Services
+### IV.	Challenges for AGPS and Mobile Location Services
 
   o	Regulations
 
