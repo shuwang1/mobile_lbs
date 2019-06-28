@@ -1,4 +1,4 @@
-# Location Based Services for Mobiles: Technologies and Standards
+# Location Based Services for Mobiles and Cars: Technologies and Standards
 
 ## Summary
 
