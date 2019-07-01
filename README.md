@@ -15,23 +15,23 @@ In summary, the slides are intended to provide a comprehensive overview of mobil
 
   o	The LBS definition and a historical review
 
-  o	An overview of LBS market and its development
+  o	An overview of LBS market and its recent development
 
-  o	LBS Examples: E911, E211 and Telematics
+  o	LBS examples: E911, E211, Telematics, IoT and Autonomous Driving
 
-  o	LBS in mobile standards
+  o	Mobile LBS standards
 
 ### II.	Wireless Positioning Technologies and AGPS
 
-  o	Overview of  Wireless Positioning Techniques
+  o	Overview of wireless positioning techniques
 
-  o	GPS Architecture and Positioning
+  o	GPS architecture and positioning
 
-  o	GPS Error Sources and Budget 
+  o	GPS error sources and link budget 
 
   o	GPS and Galileo
 
-  o	Assisted GPS
+  o	Assisted GPS, RTK and PPP
 
 ### III.	Mobile Network Assisted GPS and LCS
 
@@ -39,7 +39,9 @@ In summary, the slides are intended to provide a comprehensive overview of mobil
 
   o	LCS standards in mobile networks
 
-  o	Mobile Network Assisted GPS
+  o	Mobile network assisted GPS
+  
+  o	Mobile network and OpenRTK
 
 ### IV.	Challenges for AGPS and Mobile Location Services
 
@@ -47,4 +49,4 @@ In summary, the slides are intended to provide a comprehensive overview of mobil
 
   o	Standardization
 
-  o	Market and Implementation
+  o	Market and implementation
