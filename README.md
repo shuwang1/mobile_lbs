@@ -1,4 +1,4 @@
-# Location Based Services for IoT, Mobiles and Vehicles: Technologies and Standards
+# Location Based Services for Mobiles: Technologies and Standards
 
 ## Summary
 
